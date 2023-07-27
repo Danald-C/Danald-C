@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danald-C
+- 👋 Hi, I’m David.
 - 👀 I’m interested in joint collaborations.
 - 🌱 I’m currently into Web Development. I've got good-hands on HTML, CSS, JavaScript, JQuery & PHP.
 - And some good experiences with Ajax, Data-Structures & Algorithms. I'm also growing myself with C++, Python 3 & React.js.
